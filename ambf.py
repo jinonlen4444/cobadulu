@@ -1,12 +1,11 @@
 # Author by HikmatXD
-# Jangan Keras Merecode Script Kami!!! 
-# https://github.com/HIKMAT-xyz
-# Jangan lupa follow github saya:)
-     
+# Jangan Keras Merecode Script 
+
+  
      # Corporation Arona Multi Brute Force
      # Tricker Not Hacker
-     # Fb : Hikmat Ceremony Queenz Sr.
-     # Whastapp : 082115413282
+     # Fb : Hi
+     # Whastapp :
 
 # Grup Whastapp Admin : https://chat.whatsapp.com/DvXb23TbzQ1CfDvXwr2ifj
 # Script Ini 100% Open Source Code:) 
@@ -256,7 +255,7 @@ def banner():
 \t/    |    \/    Y    \ |    |   \ |     \   
 \t\____|__  /\____|__  / |______  / \___  /   
 \t        \/         \/         \/      \/ • Arona Multi Brute Force •
-\t\t{garis} author by {K}HikmatXD
+\t\t{garis} author by {K}HikmatXD/JIN ONLEN
 """)
 
 def cek_expired_script():

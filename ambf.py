@@ -249,14 +249,15 @@ def tahun(fx):
 def banner():
 	os.system("clear")
 	print(f"""
-\t   _____      _____   __________ ___________
-\t  /  _  \    /     \  \______   \\_   _____/
-\t /  /_\  \  /  \ /  \  |    |  _/ |    __)  
-\t/    |    \/    Y    \ |    |   \ |     \   
-\t\____|__  /\____|__  / |______  / \___  /   
-\t        \/         \/         \/      \/ • Arona Multi Brute Force •
-\t\t{garis} author by {K}HikmatXD/JIN ONLEN
-""")
+\t  ██████
+\t  ██████
+\t  ██████
+\t  ██████
+\t  ██████
+\t  ██████
+\t ◥██████◤
+\t   ◥███◤
+\t     ◥◤
 
 def cek_expired_script():
 	saat_ini = datetime.datetime.now()
